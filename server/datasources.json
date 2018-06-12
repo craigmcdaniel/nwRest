@@ -1,0 +1,12 @@
+{
+  "nwmysql": {
+    "host": "127.0.0.1",
+    "port": 3306,
+    "url": "",
+    "database": "ambivfgd_northwinds",
+    "password": "northwinds..",
+    "name": "nwmysql",
+    "user": "ambivfgd_northwind",
+    "connector": "mysql"
+  }
+}
